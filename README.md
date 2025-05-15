@@ -42,8 +42,4 @@ graph TD
     PCA9685 --> Servo_Motors
 
     
-/Robotic-Arm/
-├── PythonControl/         # Gesture and voice control logic
-├── Arduino/               # ESP32 and PCA9685 code
-├── README.md
-└── media/                 # Screenshots, demo videos
+
