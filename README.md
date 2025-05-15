@@ -41,5 +41,11 @@ graph
     ESP32 -->|PWM Signals| PCA9685
     PCA9685 --> Servo_Motors
 
+---
+## 👨‍💻 Author
+
+**Sumedh Dhangar**  
+[LinkedIn](https://www.linkedin.com/in/sumedh-dhangar) | [GitHub](https://github.com/Sumedh2911)
+
     
 
