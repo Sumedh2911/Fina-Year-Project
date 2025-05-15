@@ -32,7 +32,7 @@ A smart robotic arm system integrating Artificial Intelligence, IoT, and embedde
 
 ## 🧠 System Architecture
 
-graph TD
+graph 
     Camera -->|MediaPipe| Gesture_Module
     Microphone -->|SpeechRecognition| Voice_Module
     Gesture_Module -->|Python| Command_Handler
